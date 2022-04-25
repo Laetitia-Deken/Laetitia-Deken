@@ -1,19 +1,24 @@
+<img src='https://github.com/Laetitia-Deken/Laetitia-Deken/blob/e8f37e7e3843a69b69bfa0d07c110993d8769f8f/Profile%20LinkedIn%20Banner.png' alt="banner"></img>
+
 <h1 align="center">👋 Hi, I'm Laëtitia Deken <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate Data Analyst from the North of France.</h3>
 
 
-- 🌱 I’m currently learning **Data Analytics** <img align="right" style="width:16rem; height:auto" src=""/>
+- 🌱 I’m currently learning **Data Analytics**
 - 👯 I’m looking to collaborate on **Data Projects**
 - 👨‍💻 All of my projects are available [@Laetitia-Deken](github.com/Laetitia-Deken)
 - 💬 Ask me about **Data Science**
 - ⚡ Fun fact **I was a former teacher.**
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/jakQnxhPwrbOdEZDul/giphy.gif?cid=ecf05e4708scioqbs85pb5covgdo1v0bvpgmg62z1ohfrrph&rid=giphy.gif&ct=g" alt="animated" width="250" height="250"/>
+  </p>
+
+
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
                   
-  <br>
-
 
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -148,3 +153,8 @@
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
+    
+<p align="center">
+  <img src="https://media4.giphy.com/media/JmadfR8pYpYfBbh6QF/giphy.gif?cid=ecf05e4708scioqbs85pb5covgdo1v0bvpgmg62z1ohfrrph&rid=giphy.gif&ct=g" alt="animated" width="250" height="250"/>
+</p>
+

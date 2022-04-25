@@ -35,9 +35,35 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
       alt="python"/>
   </a>
- </p>
-  
-    
+    <a href="https://www.r-project.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"
+      alt="r"/> 
+  </a>
+</p>
+             
+
+<h3 align="center">Python Librairies / Machine Learning</h3>
+<p align="center">
+  </a>
+  <a href="https://numpy.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"
+      alt="numpy"/> 
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"
+      alt="pandas"/>
+  </a>
+  <a href="https://plotly.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"
+      alt="plotly"/> 
+ </a>
+  <a href="https://scikit-learn.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"
+      alt="scikitlearn"/> 
+  </a>
+</p>
+                  
+                  
   <h3 align="center">Databases</h3>
 <p align="center">
   <a href="https://www.postgresql.org" target="_blank"> 
@@ -66,19 +92,38 @@
   </a>
 </p>
   
-<h3 align="center">Preferred IDEs & Tools</h3>
+<h3 align="center">IDEs & Tools</h3>
 <p align="center"> 
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
   <a href="https://www.jetbrains.com/" target="_blank">
-    <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
+    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="pycharm" />
   </a>
-  <a href="https://conda.io/" target="_blank">
-    <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt="conda" />
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter" />
   </a>
   <a href="https://www.sublimetext.com/" target="_blank">
     <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="sublimetext" />
+  </a>
+</p>
+
+<h3 align="center">Design</h3>
+<p align="center"> 
+  <a href="https://www.adobe.com/fr/products/photoshop.html" target="_blank">
+    <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="photoshop" />
+  </a>
+  <a href="https://www.adobe.com/fr/products/illustrator.html" target="_blank">
+    <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="illustrator" />
+  </a>
+  <a href="https://www.adobe.com/fr/products/indesign.html" target="_blank">
+    <img src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="indesign" />
+  </a>
+   <a href="https://www.adobe.com/fr/products/premiere.html" target="_blank">
+    <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="premierepro" />
+  </a>
+     <a href="https://www.canva.com/fr_fr/" target="_blank">
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />
   </a>
 </p>
 

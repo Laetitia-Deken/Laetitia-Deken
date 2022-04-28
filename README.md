@@ -30,6 +30,22 @@
   </a>
 </p>
 
+  <h3 align="center">Databases</h3>
+<p align="center">
+  <a href="https://www.postgresql.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
+      alt="postgresql"/> 
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
+      alt="sqlite"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
+      alt="MySQL"/> 
+  </a>
+</p>
+
 <h3 align="center">Languages</h3>
 <p align="center">
   </a>
@@ -50,8 +66,7 @@
       alt="r"/> 
   </a>
 </p>
-             
-
+          
 <h3 align="center">Python Librairies / Machine Learning</h3>
 <p align="center">
   </a>
@@ -73,28 +88,6 @@
   </a>
 </p>
                   
-                  
-  <h3 align="center">Databases</h3>
-<p align="center">
-  <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
-      alt="postgresql"/> 
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
-      alt="sqlite"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
-      alt="MySQL"/> 
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"
-      alt="sqlite"/>
-  </a>
-</p>
-   
-  
 <h3 align="center">IDEs & Tools</h3>
 <p align="center"> 
   <a href="https://code.visualstudio.com/" target="_blank">
@@ -134,6 +127,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
                   
   <br>
+
   
  <div align="center">
 <h2 align="center" style="margin: 5px 10px;">My GitHub stats</h2> 

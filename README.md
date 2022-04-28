@@ -78,6 +78,10 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
       alt="MySQL"/> 
   </a>
+  <a href="https://www.sqlite.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"
+      alt="sqlite"/>
+  </a>
 </p>
     
   

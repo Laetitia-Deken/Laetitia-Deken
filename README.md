@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Data Analytics**
 - 👯 I’m looking to collaborate on **Data Projects**
-- 👨‍💻 All of my projects are available [@Laetitia-Deken](github.com/Laetitia-Deken)
+- 👨‍💻 All of my projects are available here : [@Laetitia-Deken](github.com/Laetitia-Deken)
 - 💬 Ask me about **Data Science**
-- ⚡ Fun fact **I was a former teacher.**
+- ⚡ Fun fact : **I was a former teacher.**
 
 <p align="center">
   <img src="https://media1.giphy.com/media/jakQnxhPwrbOdEZDul/giphy.gif?cid=ecf05e4708scioqbs85pb5covgdo1v0bvpgmg62z1ohfrrph&rid=giphy.gif&ct=g" alt="animated" width="250" height="250"/>

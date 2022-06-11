@@ -1,6 +1,6 @@
 <img src='https://github.com/Laetitia-Deken/Laetitia-Deken/blob/e8f37e7e3843a69b69bfa0d07c110993d8769f8f/Profile%20LinkedIn%20Banner.png' alt="banner"></img>
 
-<h1 align="center">👋 Hi, I'm Laëtitia Deken <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">👋 Hi, I'm Laëtitia Deken <img width="30px"</h1>
 <h3 font-size="20" align="center">A passionate Data Analyst from the North of France.</h3>
 
 

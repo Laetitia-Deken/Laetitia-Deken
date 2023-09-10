@@ -170,7 +170,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
  
  
-[![My Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Laetitia-Deken&theme=tokyo-night)](https://github.com/Laetitia-Deken/github-readme-activity-graph)  </p>
+[![My Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Laetitia-Deken&theme=tokyo-night)](https://github.com/Laetitia-Deken/github-readme-activity-graph)  </p>
 
 
 <p  align="center">

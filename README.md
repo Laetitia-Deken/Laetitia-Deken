@@ -18,6 +18,13 @@
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+   <h3 align="center">Artificial Intelligence & Bots</h3>
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"
+      alt="ChatGPT"/>
+</p>
                   
    <h3 align="center">Version Control & CI/CD</h3>
 <p align="center">

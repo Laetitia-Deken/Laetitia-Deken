@@ -168,7 +168,8 @@
  
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
- 
+
+ <h3 align="center">My GitHub Activity Graph</h3>
  
 [![My Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Laetitia-Deken&theme=tokyo-night)](https://github.com/Laetitia-Deken/github-readme-activity-graph)  </p>
 
@@ -179,7 +180,7 @@
 
 
 
- <h3 align="center">Connect with me</h3>
+ <h3 align="center">Connect With Me</h3>
 
 <div style="margin-top:10px" align="center">
   <div>

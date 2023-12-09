@@ -1,7 +1,7 @@
 <img src='https://github.com/Laetitia-Deken/Laetitia-Deken/blob/e8f37e7e3843a69b69bfa0d07c110993d8769f8f/Profile%20LinkedIn%20Banner.png' alt="banner"></img>
 
 <h1 align="center">👋 Hi, I'm Laëtitia Deken <img width="30px"</h1>
-<h3 font-size="20" align="center">A passionate Data Analyst from the North of France.</h3>
+<h3 font-size="20" align="center">A passionate Data Analyst from the North of France. Welcome to my profile page!</h3>
 
 
 - 🌱 I’m currently a **Data Analyst** and training with **Artificial Intelligence (AI)**

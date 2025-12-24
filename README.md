@@ -167,7 +167,7 @@
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Laetitia-Deken&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-      [![trophy](https://github-profile-trophy.vercel.app/?username=Laetitia-Deken&theme=darkhub)](https://github.com/Laetitia-Deken/github-profile-trophy)
+      [![trophy](https://github-profile-trophy.vercel.app/?username=Laetitia-Deken&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
     </a>
 </div>
 </p>

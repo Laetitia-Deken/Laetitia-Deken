@@ -143,10 +143,8 @@
 <tr border="0">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Laetitia-Deken&theme=cobalt&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-streak-stats-eight.vercel.app?user=Laetitia-Deken&theme=dark&date_format=j%20M%5B%20Y%5D" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Laetitia-Deken" src="https://github-readme-streak-stats.herokuapp.com/?user=Laetitia-Deken&theme=dark&hide_border=true" />
-  
   </td>
 
 <td width="50%" align="center">
@@ -168,7 +166,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <h3 align="center">My GitHub Trophies</h3>
 
-[![trophy](https://github-profile-trophy-tawny.vercel.app/?username=Laetitia-Deken&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy) </a>
+[![trophy](https://github-profile-trophy-tawny.vercel.app/?username=Laetitia-Deken&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) </a>
 </div>
 </p>
 

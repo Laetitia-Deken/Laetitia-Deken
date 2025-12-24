@@ -168,7 +168,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <h3 align="center">My GitHub Trophies</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Laetitia-Deken&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy) </a>
+[![trophy](https://github-profile-trophy-tawny.vercel.app/?username=Laetitia-Deken&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy) </a>
 </div>
 </p>
 
